@@ -1,3 +1,14 @@
+// Route: GET /api/posts
+// Route: GET /api/posts/:id
+// Route: POST /api/posts
+// Route: PUT /api/posts/:id
+// Route: DELETE /api/posts/:id
+// Get all posts
+// Get a single post by ID
+// Create a new post
+// Update an existing post
+// Delete a post
+
 import posts from '../data/posts.js';
 
 
